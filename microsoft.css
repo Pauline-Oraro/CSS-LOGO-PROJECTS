@@ -1,0 +1,36 @@
+/*styling the body*/
+body{
+    text-align: center;
+    padding: 200px 580px;
+    margin: auto;
+}
+/*styling the microsoft-logo class*/
+.microsoft-logo{
+    display: grid;
+    grid-template-columns: 100px 100px;
+    gap: 10px;
+}
+/*styling orange*/
+.orange{
+    background-color: rgb(219, 84, 34);
+    width: 100%;
+    height: 100px;
+}
+/*styling green*/
+.green{
+    background-color: rgb(64, 177, 64);
+    width: 100%;
+    height: 100px;
+}
+/*styling blue*/
+.blue{
+    background-color: rgb(66, 132, 173);
+    width: 100%;
+    height: 100px;
+}
+/*styling yellow*/
+.yellow{
+    background-color: rgba(226, 205, 12, 0.856);
+    width: 100%;
+    height: 100px;
+}

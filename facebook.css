@@ -1,0 +1,19 @@
+/*styling the body*/
+body{
+    text-align: center;
+    padding: 200px 600px;
+    margin: auto;
+}
+/*styling the facebook-logo class*/
+.facebook-logo{
+    background-color: midnightblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+/*styling the facebook icon*/
+.fa-facebook-f{
+    padding: 15px;
+    font-size: 5em;
+    color: white;
+}

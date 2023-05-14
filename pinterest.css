@@ -1,0 +1,19 @@
+/*styling the body*/
+body{
+    text-align: center;
+    padding: 200px 600px;
+    margin: auto;
+}
+/*styling the pinterest-logo class*/
+.pinterest-logo{
+    background: red;
+    border-radius: 60%;
+    width: 100px;
+    height: 100px;
+}
+/*styling the pinterest icon*/
+.fa-pinterest-p{
+    font-size: 5em;
+    padding: 15px;
+    color: white;
+}

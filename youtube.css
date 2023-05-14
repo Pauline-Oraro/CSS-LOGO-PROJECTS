@@ -1,0 +1,19 @@
+/*styling the body*/
+body{
+    text-align: center;
+    padding: 200px 600px;
+    margin: auto;
+}
+/*styling the youtube-logo class*/
+.youtube-logo{
+    border: 2px solid;
+    border-radius: 25px;
+    background-color: red;
+    width: 50%;
+    padding: 30px;
+}
+/*styling the play icon*/
+i.fa-play{
+    color: white;
+    font-size: 2em;
+}
